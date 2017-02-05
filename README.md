@@ -10,4 +10,4 @@ Raspbeery Pi Gibbon用のデバイスドライバは[こちら ( https://github.
 
 上記デバイスドライバのインストーラは[こちら ( https://github.com/Tiryoh/raspigibbon_driver_installer )](https://github.com/Tiryoh/raspigibbon_driver_installer)に公開されています。
 
-Raspbeery Pi Gibbon用のROSパッケージは[こちら ( https://github.com/raspbeerypigibbon )](https://github.com/raspbeerypigibbon)で公開します。（2017年2月1日現在準備中）
+Raspbeery Pi Gibbon用のROSパッケージは[こちら ( https://github.com/raspberrypigibbon )](https://github.com/raspberrypigibbon)で公開します。（2017年2月1日現在準備中）
