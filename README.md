@@ -7,7 +7,7 @@ Raspberry Pi GibbonはメインボードにRaspberry Piを使った多関節式�
 *  チュートリアル
   * [https://github.com/rt-net/RaspberryPiGibbon/wiki](https://github.com/rt-net/RaspberryPiGibbon/wiki)
 * Raspberry Pi 2/3用OSイメージ
-  * [https://github.com/rt-net/RaspberryPiGibbon/releases/tag/v0.2](https://github.com/rt-net/RaspberryPiGibbon/releases/tag/v0.2)
+  * [https://github.com/rt-net/RaspberryPiGibbon/releases/tag/v0.3](https://github.com/rt-net/RaspberryPiGibbon/releases/tag/v0.3)
 * Raspbeery Pi Gibbon用のデバイスドライバ
   * [https://github.com/Tiryoh/raspigibbon_driver](https://github.com/Tiryoh/raspigibbon_driver)
 * デバイスドライバのインストーラ
