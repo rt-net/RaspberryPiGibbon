@@ -12,5 +12,5 @@ Raspberry Pi GibbonはメインボードにRaspberry Piを使った多関節式�
   * [https://github.com/Tiryoh/raspigibbon_driver](https://github.com/Tiryoh/raspigibbon_driver)
 * デバイスドライバのインストーラ
   * [https://github.com/Tiryoh/raspigibbon_driver_installer](https://github.com/Tiryoh/raspigibbon_driver_installer)
-* Raspbeery Pi Gibbon用のROSパッケージ（2017年2月1日現在準備中）
+* Raspbeery Pi Gibbon用のROSパッケージ
   * [https://github.com/raspberrypigibbon](https://github.com/raspberrypigibbon)
